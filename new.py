@@ -180,4 +180,4 @@ elif choice == "📧 Contact":
 
 # Footer
 st.markdown("---")
-st.markdown("© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️")
+
